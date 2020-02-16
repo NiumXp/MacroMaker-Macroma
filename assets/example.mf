@@ -1,0 +1,12 @@
+:Girar
+    Gira o personagem
+
+    $SEGURAR_BOTÃO #CTRL
+    $PRESSIONAR &DIREÇÕES
+
+!Programa
+
+$EXECUTAR Girar, #E_ESPERAR
+$VERIFICAR Girar
+
+$VOLTAR Programa
