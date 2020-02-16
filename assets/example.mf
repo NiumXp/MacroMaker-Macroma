@@ -7,6 +7,6 @@
 !Programa
 
 $EXECUTAR Girar, #E_ESPERAR
-$VERIFICAR Girar
+%ESPERAR 3, #SEGUNDOS
 
 $VOLTAR Programa
